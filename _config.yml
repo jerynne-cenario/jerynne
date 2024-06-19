@@ -3,4 +3,3 @@ plugins:
 - jekyll-remote-theme
 title: Jerynne Cenario
 description: This website is a personal portfolio.
-show_downloads: true
