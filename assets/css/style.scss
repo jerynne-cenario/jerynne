@@ -29,11 +29,11 @@ html {
   }
 
 .navbar {
-    position: sticky;
-    background-color: #333;
-    overflow: hidden;
-    width: 100%;
-    margin: auto;
+  position: relative;
+  background-color: #333;
+  overflow: hidden;
+  width: 100%; /* Full width */
+  margin: auto; /* Center horizontally */
 }
 
 .navbar a {
