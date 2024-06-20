@@ -31,8 +31,8 @@ html {
     .navbar ul{
         list-style-type: none;
         background-color: hsl(0, 0%, 25%);
-        padding: 0px;
-        margin: 0px;
+        padding: 0;
+        margin: 0;
         overflow: hidden;
     }
 
@@ -43,7 +43,7 @@ html {
     .navbar a{
         color: white;
         text-decoration: none;
-        padding: 15px;
+        padding: 15;
         display: block;
         text-align: center;
     }
