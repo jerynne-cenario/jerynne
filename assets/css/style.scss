@@ -8,14 +8,16 @@ html {
 }
 
 .page-header {
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  padding-top: var(--bar-height);
-  box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: var(--bar-height);
+    box-sizing: border-box;
 }
 
   .view-more {
+    text-align: center;
     display: inline-block;
     padding: 10px 20px;
     background-color: #4E9CAF;
