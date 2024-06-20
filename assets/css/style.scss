@@ -31,19 +31,20 @@ html {
     .navbar ul{
         list-style-type: none;
         background-color: hsl(0, 0%, 25%);
-        padding: 0;
-        margin: 0;
+        padding: 0px;
+        margin: 0px;
         overflow: hidden;
     }
 
     .navbar li{
     float: left;
+    display: inline-block;
     }
     
     .navbar a{
         color: white;
         text-decoration: none;
-        padding: 15;
+        padding: 15px;
         display: block;
         text-align: center;
     }
