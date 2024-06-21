@@ -35,6 +35,7 @@ html {
     padding: 0px;
     margin: 0px;
     overflow: hidden;
+    display: flex;
     justify-content: flex-end;
     align-items: center;
 }
@@ -48,9 +49,6 @@ html {
 }
 .navbar a:hover{
     background-color: hsl(0, 0%, 10%);
-}
-.navbar li{
-    float: right;
 }
 
     .about-me {
