@@ -30,6 +30,8 @@ html {
 
 .navbar ul{
     position: sticky;
+    top: 0;
+    z-index: 1000;
     list-style-type: none;
     background-color: rgba(40, 40, 40, 0.95);
     padding: 0px;
