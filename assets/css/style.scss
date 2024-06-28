@@ -28,16 +28,6 @@ html {
     margin-top: 20px;
   }
 
-.about-me {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding-top: var(--bar-height);
-    box-sizing: border-box;
-}
-
 .navbar ul{
     position: sticky;
     top: 0;
@@ -63,13 +53,42 @@ html {
     background-color: hsl(0, 0%, 10%);
 }
 
-    .about-me {
-        text-align: center;
-        height: 100vh;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        padding-top: var(--bar-height);
-        box-sizing: border-box;
-    }
+.about-me {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: var(--bar-height);
+    box-sizing: border-box;
+}
+
+.skills {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: var(--bar-height);
+    box-sizing: border-box;
+}
+
+.projects {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: var(--bar-height);
+    box-sizing: border-box;
+}
+
+.contact-me {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: var(--bar-height);
+    box-sizing: border-box;
+}
