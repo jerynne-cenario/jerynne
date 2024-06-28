@@ -60,7 +60,13 @@ html {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
+    padding-top: 100px;
 }
+
+    .about-me h1,
+    .about-me p {
+    margin-top: 20px;
+    }
 
 .skills {
     height: 100vh;
