@@ -1,1 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
+title: Jerynne Cenario
+description: This is a portfolio for Jerynne Cenario.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
