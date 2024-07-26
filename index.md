@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Recent Projects
+# Projects
 
 ## Project 1
 
