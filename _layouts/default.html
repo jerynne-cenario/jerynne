@@ -8,9 +8,10 @@
   <body>
     <div class="wrapper">
       <header>
-
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h1>Jerynne Cenario</h1>
-        <p>Passionate about community service, web accessibility, and computer security.</p>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         
       </header>
     </div>
