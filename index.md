@@ -2,28 +2,26 @@
 layout: default
 ---
 
-# Projects
+# Programs
 
-## Project 1
+## Program 1
 
-Short project description
+Short program description
 
-Download Project 1 Report Here
+Download Program 1 Report Here
 
-Watch Project 1 Report Here
+Watch Program 1 Report Here
 
-## Project 2
+## Program 2
 
-Short project description
+Short program description
 
-Download Project 1 Report Here
+Download Program 2 Report Here
 
-Watch Project 1 Report Here
+Watch Program 2 Report Here
 
-## Project 3
+# Vulnerabilities
 
-Short project description
+Short program description
 
-Download Project 1 Report Here
-
-Watch Project 1 Report Here
+Link to full blog page
