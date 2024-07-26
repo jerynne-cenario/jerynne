@@ -1,1 +1,1 @@
-# jerynne-cenario.github.io/jerynne
+# jerynne-cenario.github.io/portfolio
