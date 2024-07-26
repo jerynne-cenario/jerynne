@@ -27,5 +27,3 @@ Short project description
 Download Project 1 Report Here
 
 Watch Project 1 Report Here
-
-[Archive](./another-page.html).
