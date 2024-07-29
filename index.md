@@ -24,7 +24,7 @@ Basic Needs, Warrior Food Pantry <br />
 
 [Jerynne Cenario - Resume](https://1drv.ms/b/c/f2fda4dd8cee4f79/EZOFeGo2qzxKo8QziQ-02pQBlixKX_sIasGAUxRvzOR5Ng?e=V3OCmh)
 
-<button name="button" onclick="[https://1drv.ms/b/c/f2fda4dd8cee4f79/EZOFeGo2qzxKo8QziQ-02pQBlixKX_sIasGAUxRvzOR5Ng?e=V3OCmh]">Jerynne Cenario - Resume</button>
+{% include button.html url="http://www.google.com" %}
 
 # Programs
 
