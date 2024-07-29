@@ -12,15 +12,15 @@ layout: default
 
 ## Intern
 
-Aug. 2022 - May 2023 <br />
-Foreign Service Institute <br />
-Virtual Student Federal Serivce <br />
+> Aug. 2022 - May 2023 <br />
+> Foreign Service Institute <br />
+> Virtual Student Federal Serivce <br />
 
 ## Volunteer
 
-Jun. 2024 - Present <br />
-California State University, Stanislaus <br />
-Basic Needs, Warrior Food Pantry <br />
+> Jun. 2024 - Present <br />
+> California State University, Stanislaus <br />
+> Basic Needs, Warrior Food Pantry <br />
 
 [Jerynne Cenario - Resume](https://1drv.ms/b/c/f2fda4dd8cee4f79/EZOFeGo2qzxKo8QziQ-02pQBlixKX_sIasGAUxRvzOR5Ng?e=V3OCmh)
 
