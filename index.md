@@ -28,17 +28,17 @@ layout: default
 
 ## Program 1
 
-Short description <br />
-[Read more about Program 1](./another-page.html).
+> Short description <br />
+> [Read more about Program 1](./another-page.html).
 
 ## Program 2
 
-Short description <br />
-[Read more about Program 2](./another-page.html).
+> Short description <br />
+> [Read more about Program 2](./another-page.html).
 
 # Vulnerabilities
 
 ## Vulnerability #1
 
-Short description <br />
-[See more vulnerabilities](./another-page.html).
+> Short description <br />
+> [See more vulnerabilities](./another-page.html).
