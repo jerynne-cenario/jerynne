@@ -21,9 +21,3 @@ layout: default
 > Jun. 2024 - Present <br />
 > California State University, Stanislaus <br />
 > Basic Needs, Warrior Food Pantry <br />
-# Vulnerabilities
-
-## Vulnerability #1
-
-> Short description <br />
-> [See more vulnerabilities](./another-page.html).
