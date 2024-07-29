@@ -6,9 +6,9 @@ layout: default
 
 ## Web Assistant
 
-Jun. 2022 - Present <br />
-California State University, Stanislaus <br />
-Strategic Marketing & Communications <br />
+> Jun. 2022 - Present <br />
+> California State University, Stanislaus <br />
+> Strategic Marketing & Communications <br />
 
 ## Intern
 
