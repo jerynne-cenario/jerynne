@@ -16,6 +16,12 @@ layout: default
 > Foreign Service Institute <br />
 > Virtual Student Federal Serivce <br />
 
+## Program Member
+
+> Aug. 2022 - May 2023 <br />
+> California State University, Stanislaus <br />
+> STEM CareerReadyU Program <br />
+
 ## Volunteer
 
 > Jun. 2024 - Present <br />
